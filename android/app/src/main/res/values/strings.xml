@@ -1,0 +1,9 @@
+<resources>
+    <string name="tfe_od_app_name" translation_description="Object Detection demo app [CHAR_LIMIT=40]">FarmAid</string>
+    <string name="tfe_od_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
+    <!--    <string name="todo">TODO</string>-->
+    <string name="aid">Aid</string>
+    <!--    <string name="todo">TODO</string>-->
+    <string name="farm">Farm</string>
+    <string name="todo">TODO</string>
+</resources>
